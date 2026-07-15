@@ -1,0 +1,5 @@
+text = input("Enter a word: ")
+print("Original:", text)
+print("Uppercase:", text.upper())
+print("Lowercase:", text.lower())
+print("Reversed:", text[::-1])
