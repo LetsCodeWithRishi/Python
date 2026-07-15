@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Learning Repository
 
 Welcome to this Python learning repository. It is organized as a structured roadmap from beginner concepts to small projects.
@@ -29,3 +30,6 @@ Welcome to this Python learning repository. It is organized as a structured road
 ```bash
 python 01_Basics/hello_world.py
 ```
+=======
+# Python
+>>>>>>> ad89d5e9c6f70e1e9a5945d60d702e68a037928f
