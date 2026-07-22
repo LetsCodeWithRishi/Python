@@ -1,3 +1,9 @@
-# 07_Expense_Tracker
+# Expense Tracker
 
-Starter project scaffold for 07_Expense_Tracker.
+Records categorized expenses during a session and prints category and overall totals.
+
+```powershell
+python main.py
+```
+
+Add dates, budgets, and CSV export.

@@ -1,3 +1,9 @@
-# 02_Number_Guessing_Game
+# Number Guessing Game
 
-Starter project scaffold for 02_Number_Guessing_Game.
+Guess a random number from 1 to 100; the program reports high and low guesses and counts attempts.
+
+```powershell
+python main.py
+```
+
+Try adding difficulty levels or a saved high-score table.

@@ -1,3 +1,9 @@
-# 10_Banking_System
+# Banking System
 
-Starter project scaffold for 10_Banking_System.
+Simulates deposits, withdrawals, and balance checks while preventing invalid amounts and overdrafts.
+
+```powershell
+python main.py
+```
+
+This is a learning simulation only; it does not store or protect real financial data.

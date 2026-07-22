@@ -1,3 +1,9 @@
-# 04_To_Do_List
+# To-do List
 
-Starter project scaffold for 04_To_Do_List.
+An in-memory task manager supporting add, list, and remove commands.
+
+```powershell
+python main.py
+```
+
+Extend it by saving tasks to JSON and adding completion states.

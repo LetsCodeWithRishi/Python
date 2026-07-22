@@ -1,3 +1,9 @@
-# 08_Contact_Book
+# Contact Book
 
-Starter project scaffold for 08_Contact_Book.
+Stores contacts in memory and supports adding, finding, and listing names.
+
+```powershell
+python main.py
+```
+
+Add email fields, deletion, and JSON persistence.

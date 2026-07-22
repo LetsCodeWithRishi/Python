@@ -1,27 +1,22 @@
-# 16_Projects
+# Projects
 
-This folder contains mini project ideas that combine everything you have learned so far.
+Ten runnable command-line applications that combine the preceding lessons. Run a project from the repository root:
 
-## Project ideas
-- Calculator
-- Number guessing game
-- Rock paper scissors
-- To-do list
-- Quiz game
-- Password generator
-- Expense tracker
-- Contact book
-- Library management system
-- Banking system
+```powershell
+python 16_Projects/01_Calculator/main.py
+```
 
-## How to use these projects
-1. Choose a project folder.
-2. Read the README inside it.
-3. Start with the starter main.py file.
-4. Expand the project with your own features.
+| Project | Concepts to review |
+| --- | --- |
+| Calculator | Functions, validation, exceptions |
+| Guessing game | Loops and `random` |
+| Rock-paper-scissors | Branching and dictionaries |
+| To-do list | Lists and menus |
+| Quiz game | Tuples and scoring |
+| Password generator | `secrets` and strings |
+| Expense tracker | Dictionaries and aggregation |
+| Contact book | Dictionaries and sorting |
+| Library manager | Sets and state |
+| Banking system | Validation and state |
 
-## Suggested approach
-- Begin with the calculator or guessing game.
-- Add input validation and error handling.
-- Improve the user experience.
-- Store data in files as needed.
+All projects keep data in memory. A worthwhile next step is persistence with JSON or CSV, followed by tests.
